@@ -1,2 +1,12 @@
-# portifolio-ads
-Portfólio acadêmico com projetos desenvolvidos durante a graduação em Análise e Desenvolvimento de Sistemas na Fatec Zona Leste.
+# Portfólio Acadêmico
+
+## 🐍 Python
+- Estruturas Sequenciais
+- Estruturas de Controle
+- Modularização
+- Manipulação de Arquivos
+- Programação Concorrente
+
+## ⚙ Assembly
+- MIPS
+- Conversões
