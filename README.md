@@ -8,5 +8,7 @@
 - Programação Concorrente
 
 ## ⚙ Assembly
-- MIPS
-- Conversões
+- Básico
+- Intermediário
+- Progressivo
+- Fibonacci
