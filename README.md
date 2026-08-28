@@ -11,6 +11,9 @@
 -  [Sincronização com Semáforos](https://github.com/Rafa-tech008/python-sincronizacao-semaforos.git)
 -  [Sincronização com Semáforos Avançada](https://github.com/Rafa-tech008/python-sincronizacao-semaforos-avancado.git);
 
+  ## ☕Java
+  -[Estruturas Sequenciais](https://github.com/Rafa-tech008/java-estrutura-sequencial.git);
+
 ## ⚙ Assembly
 - [Básico](https://github.com/Rafa-tech008/assembly-basico.git);
 - [Intermediário](https://github.com/Rafa-tech008/assembly-intermediario.git);
